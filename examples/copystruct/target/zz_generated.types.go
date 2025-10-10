@@ -3,7 +3,7 @@
 package target
 
 import (
-	"github.com/mistermx/copystruct/examples/thirdparty"
+	"github.com/mistermx/copystruct/examples/copystruct/thirdparty"
 )
 
 // User represents a system user.

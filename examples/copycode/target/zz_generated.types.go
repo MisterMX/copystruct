@@ -1,6 +1,6 @@
-package source
+package target
 
-import "github.com/mistermx/copystruct/examples/thirdparty"
+import "github.com/mistermx/copystruct/examples/copycode/thirdparty"
 
 // User represents a system user.
 type User struct {
